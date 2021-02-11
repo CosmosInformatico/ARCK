@@ -1,2 +1,2 @@
 # ARCK
-Conjunto de herramientas para mejorar la facilidad de uso de Arch Linux.
+Conjunto de herramientas para mejorar el uso e instalación de Arch Linux.
